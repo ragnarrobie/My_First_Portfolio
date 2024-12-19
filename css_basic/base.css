@@ -1,0 +1,12 @@
+h2{
+    color:red;
+}
+li em{
+    color:blue;
+    text-align:center;
+
+}
+li.special{
+    color:black;
+    font-weight:bold;
+}
