@@ -1,0 +1,13 @@
+h1+p{
+    font-size: 300%;
+
+}
+a:link{
+    color:seagreen;
+}
+a:visited{
+    color:violet;
+}
+a:link{
+    text-decoration: none;
+}
